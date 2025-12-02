@@ -76,4 +76,4 @@ C:\dev\
 - If multiple PHP folders exist, the script uses the one with the highest alphabetical sort order
 - The server is accessible only from your local machine (localhost)
 - Default port is 8000 (modify the script to change this)
-```
+
